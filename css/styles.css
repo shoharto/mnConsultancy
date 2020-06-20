@@ -3956,6 +3956,7 @@ input[type=button].btn-block {
 .nav-pills .show > .nav-link {
   color: #fff;
   background-color: #fed136;
+  
 }
 
 .nav-fill .nav-item {
@@ -4014,10 +4015,13 @@ input[type=button].btn-block {
   padding-left: 0;
   margin-bottom: 0;
   list-style: none;
+  
+  
 }
 .navbar-nav .nav-link {
   padding-right: 0;
   padding-left: 0;
+  /*shoharto*/
 }
 .navbar-nav .dropdown-menu {
   position: static;
@@ -10098,6 +10102,7 @@ img::-moz-selection {
 }
 #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
   color: #fed136;
+  
 }
 
 @media (min-width: 992px) {
@@ -10140,7 +10145,7 @@ header.masthead {
   padding-bottom: 6rem;
   text-align: center;
   color: #fff;
-  background-image: url("../assets/img/header-bg.jpg");
+  background-image: url("../assets/img/70.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
